@@ -1,0 +1,17 @@
+{
+  "links": {
+    "index":"Index",
+    "home": "System",
+    "user": "User",
+    "login": "Login"
+  },
+  "home": {
+    "title": "Welcome to the homepage",
+    "meta": "This is a simple website"
+  },
+  "lang":{
+    "default": "lang",
+    "zhCN": "zhCN",
+    "en": "en"
+  }
+}
